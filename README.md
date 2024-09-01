@@ -25,7 +25,7 @@ Simply download or clone this Repo, all you need is 3 packages.
 The program includes 2 txt files `config.txt` and `objects.txt`, which provides complete artistic controll over the final image without having to update the code.
 
 ### Config.txt
-The file includes different settings related to the rendering process, like the number of `Samples`, the `Resolution`,and the number of light `bounces` per pixel.
+The file includes different settings related to the rendering process, like the number of `Samples`, the `Resolution`,and the number of light `Bounces` per pixel.
 
 Here is a list of all the Variables and what they do:
 
