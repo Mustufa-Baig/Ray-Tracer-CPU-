@@ -54,3 +54,9 @@ The file is a list of objects(spheres) for the program to render. The format of 
    * The Fifth one is the gloss value of the sphere.
      > ranging from 0 to 1
    * The Fourth one is just the text "glossy", leave it as is.
+
+
+# Some Example Renders
+![An example](room-example.png)
+![An example](studio-example.png)
+![An example](balls-void.png)
